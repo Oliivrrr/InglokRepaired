@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InglokRepaired", "InglokRepaired\InglokRepaired.csproj", "{3DF4709C-35BC-4470-8EBC-13D85C2B8DB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF4709C-35BC-4470-8EBC-13D85C2B8DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF4709C-35BC-4470-8EBC-13D85C2B8DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF4709C-35BC-4470-8EBC-13D85C2B8DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF4709C-35BC-4470-8EBC-13D85C2B8DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96E81C27-6971-414D-8F3A-EC1D4FAE7A23}
+	EndGlobalSection
+EndGlobal
